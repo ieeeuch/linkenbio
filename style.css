@@ -1,0 +1,207 @@
+body {
+  background: url(https://cdn.hipwallpaper.com/i/95/75/nZU8wd.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center 0;
+  background-size: 100% 100%;
+}
+
+img {
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  width: auto;
+  margin: auto;
+  display: flex;
+}
+
+p {
+  text-align: center;
+}
+
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 12px;
+  margin: 2px;
+}
+
+h2 {
+  color:#00529F;
+  text-align: center;
+  font-size: 12px;
+  margin: 2px;
+}
+
+h3 {
+  color:black;
+  text-align: center;
+  font-size: 35px;
+  margin: 2px;
+}
+
+h4 {
+  color: white;
+  text-align: center;
+  font-size: 10px;
+  margin: 2px;
+}
+
+h5 {
+  color: black;
+  text-align: center;
+  font-size: 15px;
+  margin: 2px;
+}
+
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+}
+a {
+  text-decoration: none;
+}
+
+.buttons {
+  text-align: center;
+
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+
+  flex-wrap: wrap;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.ieee {
+  background: rgba(255, 255, 255, 0.5);
+  color: #00529F;
+  display: inline-block;
+  font-size: 1.25em;
+  margin: 2px;
+  padding: 10px 0px;
+  text-align: center;
+  width: 70%;
+  box-shadow: 0px 2px 0px #00529F;
+  border-radius: 5px;
+}
+
+.button-tiktok {
+  background: rgba(223, 42, 162, 0.5);
+  color: rgb(255, 255, 255);
+  display: inline-block;
+  font-size: 1.25em;
+  margin: 2px;
+  padding: 10px 0px;
+  text-align: center;
+  width: 70%;
+  box-shadow: 0px 2px 0px #fff;
+  border-radius: 5px;
+}
+
+.button-medium {
+  background: rgba(255, 255, 255, 0.5);
+  color: #000000;
+  display: inline-block;
+  font-size: 1.25em;
+  margin: 2px;
+  padding: 10px 0px;
+  text-align: center;
+  width: 70%;
+  box-shadow: 0px 2px 0px #fff;
+  border-radius: 5px;
+}
+
+.social-facebook {
+  background: rgba(0, 0, 255, 0.5);
+  color: rgb(255, 255, 255);
+  display: inline-block;
+  font-size: 1.25em;
+  margin: 2px;
+  padding: 10px 0px;
+  text-align: center;
+  width: 70%;
+  box-shadow: 0px 2px 0px #fff;
+  border-radius: 5px;
+}
+
+.button-twitter {
+  background: rgba(66, 231, 239, 0.5);
+  color: rgb(255, 255, 255);
+  display: inline-block;
+  font-size: 1.25em;
+  margin: 2px;
+  padding: 10px 0px;
+  text-align: center;
+  width: 70%;
+  box-shadow: 0px 2px 0px #fff;
+  border-radius: 5px;
+}
+
+.button-snapchat {
+  background: rgba(255, 251, 15, 0.5);
+  color: #000000;
+  display: inline-block;
+  font-size: 1.25em;
+  margin: 2px;
+  padding: 10px 0px;
+  text-align: center;
+  width: 70%;
+  box-shadow: 0px 2px 0px #fff;
+  border-radius: 5px;
+}
+
+.button-instagram {
+  background: rgba(224, 86, 128, 0.5);
+  color: rgb(255, 255, 255);
+  display: inline-block;
+  font-size: 1.25em;
+  margin: 2px;
+  padding: 10px 0px;
+  text-align: center;
+  width: 70%;
+  box-shadow: 0px 2px 0px #fff;
+  border-radius: 5px;
+}
+
+.button-youtube {
+  background: rgba(255, 0, 0, 0.5);
+  color: rgb(255, 255, 255);
+  display: inline-block;
+  font-size: 1.25em;
+  margin: 2px;
+  padding: 10px 0px;
+  text-align: center;
+  width: 70%;
+  box-shadow: 0px 2px 0px #fff;
+  border-radius: 5px;
+}
+
+.button-twitch {
+  background: rgba(176, 25, 214, 0.5);
+  color: rgb(255, 255, 255);
+  display: inline-block;
+  font-size: 1.25em;
+  margin: 2px;
+  padding: 10px 0px;
+  text-align: center;
+  width: 70%;
+  box-shadow: 0px 2px 0px #fff;
+  border-radius: 5px;
+}
+
+.button-younow {
+  background: rgba(255, 255, 255, 0.5);
+  color: rgb(45, 244, 29);
+  display: inline-block;
+  font-size: 1.25em;
+  margin: 2px;
+  padding: 10px 0px;
+  text-align: center;
+  width: 70%;
+  box-shadow: 0px 2px 0px #fff;
+  border-radius: 5px;
+}
