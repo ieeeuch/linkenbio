@@ -89,21 +89,8 @@ a {
   border-radius: 5px;
 }
 
-.button-tiktok {
-  background: rgba(223, 42, 162, 0.5);
-  color: rgb(255, 255, 255);
-  display: inline-block;
-  font-size: 1.25em;
-  margin: 2px;
-  padding: 10px 0px;
-  text-align: center;
-  width: 70%;
-  box-shadow: 0px 2px 0px #fff;
-  border-radius: 5px;
-}
-
 .button-medium {
-  background: rgba(255, 255, 255, 0.5);
+  background: #fff;
   color: #000000;
   display: inline-block;
   font-size: 1.25em;
@@ -116,92 +103,105 @@ a {
 }
 
 .social-facebook {
-  background: rgba(0, 0, 255, 0.5);
-  color: rgb(255, 255, 255);
+  background: #3b5998;
+  color: #fff;
   display: inline-block;
   font-size: 1.25em;
   margin: 2px;
   padding: 10px 0px;
   text-align: center;
   width: 70%;
-  box-shadow: 0px 2px 0px #fff;
+  box-shadow: 0px 2px 0px #3b5998;
+  border-radius: 5px;
+}
+
+.social-linkedin {
+  background: #007bb5;
+  color: #fff;
+  display: inline-block;
+  font-size: 1.25em;
+  margin: 2px;
+  padding: 10px 0px;
+  text-align: center;
+  width: 70%;
+  box-shadow: 0px 2px 0px #007bb5;
   border-radius: 5px;
 }
 
 .button-twitter {
-  background: rgba(66, 231, 239, 0.5);
-  color: rgb(255, 255, 255);
+  background: #55acee;
+  color: #fff;
   display: inline-block;
   font-size: 1.25em;
   margin: 2px;
   padding: 10px 0px;
   text-align: center;
   width: 70%;
-  box-shadow: 0px 2px 0px #fff;
+  box-shadow: 0px 2px 0px #55acee;
   border-radius: 5px;
 }
 
-.button-snapchat {
-  background: rgba(255, 251, 15, 0.5);
-  color: #000000;
+.button-tiktok {
+  background:#ff0084;
+  color: #fff;
   display: inline-block;
   font-size: 1.25em;
   margin: 2px;
   padding: 10px 0px;
   text-align: center;
   width: 70%;
-  box-shadow: 0px 2px 0px #fff;
+  box-shadow: 0px 2px 0px #ff0084;
   border-radius: 5px;
 }
 
 .button-instagram {
-  background: rgba(224, 86, 128, 0.5);
-  color: rgb(255, 255, 255);
+  background: #125688;
+  color: #fff;
   display: inline-block;
   font-size: 1.25em;
   margin: 2px;
   padding: 10px 0px;
   text-align: center;
   width: 70%;
-  box-shadow: 0px 2px 0px #fff;
+  box-shadow: 0px 2px 0px #125688;
   border-radius: 5px;
 }
 
 .button-youtube {
-  background: rgba(255, 0, 0, 0.5);
-  color: rgb(255, 255, 255);
+  background: #bb0000;
+  color: #fff;
   display: inline-block;
   font-size: 1.25em;
   margin: 2px;
   padding: 10px 0px;
   text-align: center;
   width: 70%;
-  box-shadow: 0px 2px 0px #fff;
+  box-shadow: 0px 2px 0px #bb0000;
   border-radius: 5px;
 }
 
-.button-twitch {
-  background: rgba(176, 25, 214, 0.5);
-  color: rgb(255, 255, 255);
+.button-discord {
+  background: #410093;
+  color: #fff;
   display: inline-block;
   font-size: 1.25em;
   margin: 2px;
   padding: 10px 0px;
   text-align: center;
   width: 70%;
-  box-shadow: 0px 2px 0px #fff;
+  box-shadow: 0px 2px 0px #410093;
   border-radius: 5px;
 }
 
-.button-younow {
-  background: rgba(255, 255, 255, 0.5);
-  color: rgb(45, 244, 29);
+.button-sb {
+  background: #00529F;
+  color: #fff;
   display: inline-block;
   font-size: 1.25em;
   margin: 2px;
   padding: 10px 0px;
   text-align: center;
   width: 70%;
-  box-shadow: 0px 2px 0px #fff;
+  box-shadow: 0px 2px 0px #00529F;
   border-radius: 5px;
 }
