@@ -1,5 +1,5 @@
 body {
-  background: url(https://cdn.hipwallpaper.com/i/95/75/nZU8wd.jpg);
+  background: white;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center 0;
@@ -9,7 +9,7 @@ body {
 img {
   justify-content: center;
   align-items: center;
-  height: 100px;
+  height: 70px;
   width: auto;
   margin: auto;
   display: flex;
@@ -34,21 +34,21 @@ h2 {
 }
 
 h3 {
-  color:black;
+  color:#00529F;
   text-align: center;
-  font-size: 35px;
+  font-size: 21px;
   margin: 2px;
 }
 
 h4 {
-  color: white;
+  color: #00529F;
   text-align: center;
   font-size: 10px;
   margin: 2px;
 }
 
 h5 {
-  color: black;
+  color: #00529F;
   text-align: center;
   font-size: 15px;
   margin: 2px;
