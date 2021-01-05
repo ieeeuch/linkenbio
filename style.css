@@ -81,127 +81,15 @@ a {
   color: #00529F;
   display: inline-block;
   font-size: 1.25em;
-  margin: 2px;
+  margin: 7px;
   padding: 10px 0px;
   text-align: center;
   width: 70%;
-  box-shadow: 0px 2px 0px #00529F;
-  border-radius: 5px;
+  border: 2px solid #00529F;
 }
 
-.button-medium {
-  background: #fff;
-  color: #000000;
-  display: inline-block;
-  font-size: 1.25em;
-  margin: 2px;
-  padding: 10px 0px;
-  text-align: center;
-  width: 70%;
-  box-shadow: 0px 2px 0px #fff;
-  border-radius: 5px;
-}
-
-.social-facebook {
-  background: #3b5998;
-  color: #fff;
-  display: inline-block;
-  font-size: 1.25em;
-  margin: 2px;
-  padding: 10px 0px;
-  text-align: center;
-  width: 70%;
-  box-shadow: 0px 2px 0px #3b5998;
-  border-radius: 5px;
-}
-
-.social-linkedin {
-  background: #007bb5;
-  color: #fff;
-  display: inline-block;
-  font-size: 1.25em;
-  margin: 2px;
-  padding: 10px 0px;
-  text-align: center;
-  width: 70%;
-  box-shadow: 0px 2px 0px #007bb5;
-  border-radius: 5px;
-}
-
-.button-twitter {
-  background: #55acee;
-  color: #fff;
-  display: inline-block;
-  font-size: 1.25em;
-  margin: 2px;
-  padding: 10px 0px;
-  text-align: center;
-  width: 70%;
-  box-shadow: 0px 2px 0px #55acee;
-  border-radius: 5px;
-}
-
-.button-tiktok {
-  background:#ff0084;
-  color: #fff;
-  display: inline-block;
-  font-size: 1.25em;
-  margin: 2px;
-  padding: 10px 0px;
-  text-align: center;
-  width: 70%;
-  box-shadow: 0px 2px 0px #ff0084;
-  border-radius: 5px;
-}
-
-.button-instagram {
-  background: #125688;
-  color: #fff;
-  display: inline-block;
-  font-size: 1.25em;
-  margin: 2px;
-  padding: 10px 0px;
-  text-align: center;
-  width: 70%;
-  box-shadow: 0px 2px 0px #125688;
-  border-radius: 5px;
-}
-
-.button-youtube {
-  background: #bb0000;
-  color: #fff;
-  display: inline-block;
-  font-size: 1.25em;
-  margin: 2px;
-  padding: 10px 0px;
-  text-align: center;
-  width: 70%;
-  box-shadow: 0px 2px 0px #bb0000;
-  border-radius: 5px;
-}
-
-.button-discord {
-  background: #410093;
-  color: #fff;
-  display: inline-block;
-  font-size: 1.25em;
-  margin: 2px;
-  padding: 10px 0px;
-  text-align: center;
-  width: 70%;
-  box-shadow: 0px 2px 0px #410093;
-  border-radius: 5px;
-}
-
-.button-sb {
-  background: #00529F;
-  color: #fff;
-  display: inline-block;
-  font-size: 1.25em;
-  margin: 2px;
-  padding: 10px 0px;
-  text-align: center;
-  width: 70%;
-  box-shadow: 0px 2px 0px #00529F;
-  border-radius: 5px;
-}
+.ieee:hover {
+  background-color: #00529F;
+   box-shadow: 0 0 10px #00529F, 0 0 20px #00529F, 0 0 20px #00529F;
+   color: #434343;
+ }
